@@ -3,6 +3,7 @@ package B_01000;
 import java.util.Scanner;
 import java.util.Calendar;
 
+// 2007년
 public class B01924 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
